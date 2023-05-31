@@ -1,5 +1,5 @@
 # quote-generator
-A simple, random quote-generator, which even let's us TWEET our quotes on Twitter. ✨
+A simple, random quote-generator, which even let's us TWEET our quotes on Twitter✨
 
 https://random-quote-generator-skyybanerjee.netlify.app/ 
 
